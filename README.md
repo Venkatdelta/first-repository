@@ -5,4 +5,5 @@ first install GIT software in cloud server and checking git version
 generating SSH key to connect between PC and GIT
 Using git clone command i download the code from Git repository and paste it server
 git add command is used to update the changes and make to commit
-generating stash command
+executing fetch and pull command
+used statch command
